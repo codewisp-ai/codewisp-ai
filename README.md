@@ -18,10 +18,6 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 ## 🧑‍💻 About Me
 
 ```json
@@ -36,10 +32,6 @@
 ```
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -65,30 +57,16 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewisp-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img height="170" src="https://streak-stats.demolab.com/?user=codewisp-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9" />
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewisp-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewisp-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewisp-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
-> ⚠️ Stats show **public repos only**. Go to **Settings → Contributions** and enable *"Include private contributions"* to show full activity.
-
 ---
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECT                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Project
 
@@ -106,10 +84,6 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--               CURRENTLY EXPLORING                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 ## 🌱 Currently Exploring
 
 <div align="center">
@@ -125,33 +99,13 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                TROPHIES                                   -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewisp-ai&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" />
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                ACTIVITY GRAPH                             -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewisp-ai&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewisp-ai&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c9d1d9&area=true&area_color=302b63&hide_border=true&theme=tokyo-night" />
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   CONNECT                                 -->
-<!-- ══════════════════════════════════════════════════════════ -->
 
 ## 🤝 Let's Connect
 
