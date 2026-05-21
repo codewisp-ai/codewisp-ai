@@ -22,28 +22,18 @@
 <!--                        ABOUT ME                           -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+## 🧑‍💻 About Me
 
-## 🧑‍💻 `whoami`
-
-```js
-const anmol = {
-  name      : "Anmol Maheshwari",
-  degree    : "B.Tech — Computer Engineering",
-  stack     : ["MERN", "C++", "Python"],
-  devOps    : ["Docker", "SQL", "AWS (learning)"],
-  exploring : ["Cloud Architecture", "AI × Web Dev", "Microservices"],
-  building  : "CiviScan — AI Civic Issue Platform",
-  openTo    : ["Internships", "Collabs", "Open Source"],
-};
+```json
+{
+  "name"      : "Anmol Maheshwari",
+  "degree"    : "B.Tech — Computer Engineering",
+  "stack"     : ["MERN", "C++", "Python", "Docker", "SQL"],
+  "exploring" : ["Cloud (AWS)", "AI × Web Dev", "Microservices"],
+  "building"  : "CiviScan — AI Civic Issue Platform",
+  "openTo"    : ["Internships", "Open Source", "Collabs"]
+}
 ```
-
-- 🔭 Currently building **AI-powered full stack apps**
-- ☁️ Exploring **AWS** and **Microservice Architecture**
-- 🤖 Touched **OpenAI APIs** — excited about AI in production web apps
-- 🎯 Goal: Ship real products that solve real problems
-
-<br clear="right"/>
 
 ---
 
@@ -54,27 +44,23 @@ const anmol = {
 ## 🛠️ Tech Stack
 
 **Languages**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,py,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,py,js&theme=dark" />
 </p>
 
 **Frontend**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
 </p>
 
 **Backend & Databases**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 </p>
 
-**DevOps & Cloud**
-
+**DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -87,14 +73,16 @@ const anmol = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=codewisp-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
-<img width="48%" src="https://streak-stats.demolab.com?user=codewisp-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewisp-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="170" src="https://streak-stats.demolab.com/?user=codewisp-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewisp-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewisp-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=1800" />
 
 </div>
+
+> ⚠️ Stats show **public repos only**. Go to **Settings → Contributions** and enable *"Include private contributions"* to show full activity.
 
 ---
 
@@ -106,42 +94,57 @@ const anmol = {
 
 ### 🏙️ CiviScan — AI-Powered Civic Issue Reporting Platform
 
-> Citizens can report broken roads, water leaks, faulty streetlights — and AI routes each issue to the right department automatically.
+> Citizens report civic issues — AI classifies them and auto-routes to the right government department.
 
 | | |
 |---|---|
 | **Stack** | MERN + Docker |
-| **AI** | OpenAI API for issue classification |
+| **AI** | OpenAI API — issue classification |
 | **Architecture** | Microservices |
-| **Infra** | Containerized with Docker |
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-CiviScan--AI-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewisp-ai/CiviScan-AI)
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--               CURRENTLY LEARNING                          -->
+<!--               CURRENTLY EXPLORING                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 📚 Currently Exploring
+## 🌱 Currently Exploring
 
-```text
-☁️  AWS & Cloud Architecture     ██████░░░░░░   Learning
-🤖  AI Integration in Web Apps   █████░░░░░░░   Touched OpenAI APIs
-🧩  Microservice Architecture     ████████░░░░   Building with it
-🐳  Docker & Containerization     ████████████   Using actively
-```
+<div align="center">
+
+| Area | Status |
+|:---|:---|
+| ☁️ AWS & Cloud Architecture | ![Learning](https://img.shields.io/badge/-Learning-f59e0b?style=flat-square) |
+| 🤖 AI Integration in Web Apps | ![In Progress](https://img.shields.io/badge/-In%20Progress-a78bfa?style=flat-square) |
+| 🧩 Microservice Architecture | ![Building](https://img.shields.io/badge/-Building-22c55e?style=flat-square) |
+| 🐳 Docker & Containerization | ![Active](https://img.shields.io/badge/-Active-3b82f6?style=flat-square) |
+
+</div>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                CONTRIBUTION SNAKE                         -->
+<!--                TROPHIES                                   -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 🐍 Contribution Snake
+## 🏆 Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codewisp-ai/codewisp-ai/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codewisp-ai&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6" />
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                ACTIVITY GRAPH                             -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewisp-ai&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
