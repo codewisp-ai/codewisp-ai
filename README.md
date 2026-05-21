@@ -61,8 +61,14 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewisp-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewisp-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
+<!-- Followers & Stars — live badges via shields.io, always reliable -->
+![Followers](https://img.shields.io/github/followers/codewisp-ai?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/codewisp-ai?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&label=Total%20Stars)
+
+<br/><br/>
+
+<!-- Activity Graph — different provider, works reliably -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewisp-ai&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c9d1d9&area=true&area_color=302b63&hide_border=true&theme=tokyo-night" />
 
 </div>
 
@@ -95,14 +101,6 @@
 | 🧩 Microservice Architecture | ![Building](https://img.shields.io/badge/-Building-22c55e?style=flat-square) |
 | 🐳 Docker & Containerization | ![Active](https://img.shields.io/badge/-Active-3b82f6?style=flat-square) |
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewisp-ai&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c9d1d9&area=true&area_color=302b63&hide_border=true&theme=tokyo-night" />
 </div>
 
 ---
